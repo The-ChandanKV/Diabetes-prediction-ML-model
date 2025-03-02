@@ -1,6 +1,6 @@
 # 🏥 Diabetes Prediction System
 
-A **Machine Learning-powered web application** that predicts the risk of diabetes based on user input. This end-to-end project integrates **Python (Flask), Machine Learning (Logistic Regression), and a Grand UI** using **HTML, CSS, and JavaScript**.
+A **Machine Learning-powered web application** that predicts the risk of diabetes based on user input. This end-to-end project integrates **Python (Flask), Machine Learning (Support Vector Machine), and a Grand UI** using **HTML, CSS, and JavaScript**.
 
 ---
 
