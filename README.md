@@ -5,7 +5,7 @@ A **Machine Learning-powered web application** that predicts the risk of diabete
 ---
 
 ## 🚀 Features
-- 🎯 **Machine Learning Model**: Uses Logistic Regression to predict diabetes risk  
+- 🎯 **Machine Learning Model**: Uses Support Vector Machine to predict diabetes risk  
 - 💎 **Modern, Grand UI**: Glassmorphism effect, high-quality diabetes-related images, and animations  
 - 🌐 **Flask Backend**: Processes user input and returns predictions  
 - 📊 **User-Friendly Form**: Collects health-related data for prediction  
@@ -16,7 +16,7 @@ A **Machine Learning-powered web application** that predicts the risk of diabete
 ## 🏗️ Tech Stack
 - **Frontend**: HTML, CSS, JavaScript  
 - **Backend**: Flask (Python)  
-- **Machine Learning**: Logistic Regression (scikit-learn)  
+- **Machine Learning**: Support Vector Machine (scikit-learn)  
 - **Deployment**: Flask Server  
 
 ---
